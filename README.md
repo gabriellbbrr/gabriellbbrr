@@ -52,3 +52,9 @@
 <img src="https://raw.githubusercontent.com/gabriellbbrr/gabriellbbrr/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gabriellbbrr/count.svg?"  />
+</div>
+
+###
