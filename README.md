@@ -41,11 +41,11 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="180" src="https://gaak.fr/wp-content/uploads/2022/09/image.gif"  />
+<img align="right" height="250" src="https://gaak.fr/wp-content/uploads/2022/09/image.gif"  />
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/gabriellbbrr/gabriellbbrr/output/snake.svg" alt="Snake animation" />
 
