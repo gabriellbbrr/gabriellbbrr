@@ -41,7 +41,9 @@
 
 ###
 
-<img align="right" height="150" src="https://gaak.fr/wp-content/uploads/2022/09/image.gif"  />
+<br clear="both">
+
+<img align="right" height="180" src="https://gaak.fr/wp-content/uploads/2022/09/image.gif"  />
 
 ###
 
